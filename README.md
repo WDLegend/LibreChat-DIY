@@ -35,7 +35,7 @@
 
 - `skills/install-skill.md`
 
-它更偏向工作流/安装说明，不是业务功能文档。
+LibreChat的安装，可以直接丢给agent装好。
 
 ## 说明
 
