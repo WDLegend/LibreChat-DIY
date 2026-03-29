@@ -1,0 +1,37 @@
+.notes-editor .bn-editor {
+  min-height: 400px;
+  height: 100%;
+}
+
+.notes-editor .bn-editor > div {
+  height: 100%;
+  min-height: 400px;
+}
+
+.notes-editor .bn-editor .blocks-container {
+  min-height: 400px;
+}
+
+@media (max-width: 768px) {
+  .notes-editor .bn-editor {
+    min-height: 300px;
+  }
+  .notes-editor .bn-editor > div {
+    min-height: 300px;
+  }
+  .notes-editor .bn-editor .blocks-container {
+    min-height: 300px;
+  }
+}
+
+@media (max-width: 480px) {
+  .notes-editor .bn-editor {
+    min-height: 250px;
+  }
+  .notes-editor .bn-editor > div {
+    min-height: 250px;
+  }
+  .notes-editor .bn-editor .blocks-container {
+    min-height: 250px;
+  }
+}
